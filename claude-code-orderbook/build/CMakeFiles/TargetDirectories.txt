@@ -1,0 +1,7 @@
+C:/Users/whubb/OneDrive/Desktop/ie421/llm-testing/claude-code-orderbook/build/CMakeFiles/orderbook_core.dir
+C:/Users/whubb/OneDrive/Desktop/ie421/llm-testing/claude-code-orderbook/build/CMakeFiles/unit_tests.dir
+C:/Users/whubb/OneDrive/Desktop/ie421/llm-testing/claude-code-orderbook/build/CMakeFiles/orderbook_bench.dir
+C:/Users/whubb/OneDrive/Desktop/ie421/llm-testing/claude-code-orderbook/build/CMakeFiles/orderbook_profile.dir
+C:/Users/whubb/OneDrive/Desktop/ie421/llm-testing/claude-code-orderbook/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/whubb/OneDrive/Desktop/ie421/llm-testing/claude-code-orderbook/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/whubb/OneDrive/Desktop/ie421/llm-testing/claude-code-orderbook/build/CMakeFiles/ZERO_CHECK.dir

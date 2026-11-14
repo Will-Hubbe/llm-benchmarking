@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\whubb\OneDrive\Desktop\ie421\llm-testing\claude-code-orderbook\build\CMakeFiles\6840bb5d98e822217d7b73f68e334225\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{62279C62-5540-39F3-B736-2A30C281465F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
